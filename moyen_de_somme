@@ -1,0 +1,7 @@
+x = int(input("entre un nobmre :"))
+y = int(input("entre un nobmre :"))
+z = int(input("entre un nobmre :"))
+v = int(input("entre un nobmre :"))
+
+som = x + y + z + v
+print("the largeast number is ",som)
